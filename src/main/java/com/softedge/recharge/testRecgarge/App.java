@@ -1,7 +1,7 @@
 package com.softedge.recharge.testRecgarge;
 
 /**
- * Hello world!
+ * Hello TestRecharge!
  *
  */
 public class App 
